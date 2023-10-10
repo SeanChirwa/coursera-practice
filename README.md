@@ -1,2 +1,2 @@
 # coursera-practice
-Practicing what am learn from Coursera
+Practicing what am learning from Coursera
